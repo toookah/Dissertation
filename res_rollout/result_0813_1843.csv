@@ -1,0 +1,33 @@
+rollout轮数,结果,获胜者
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . N
+P P P P P P P P
+R N B Q K B . R,319,1/2-1/2,平局
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R,346,1/2-1/2,平局
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . N . . . . .
+P P P P P P P P
+R . B Q K B N R,205,0-1,获胜者 -1
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+N . . . . . . .
+P P P P P P P P
+R . B Q K B N R,563,1/2-1/2,平局
